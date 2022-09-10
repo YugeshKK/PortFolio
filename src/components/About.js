@@ -42,23 +42,23 @@ const About = () => {
                         <h1>Skills</h1>
                         <Carousel responsive={responsive} infinite={true} className='skill-slider'>
                             <div className="item">
-                                <img src={meter1}/>
+                                <img src={meter1} alt='image'/>
                                 <h5>React JS</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2}/>
+                                <img src={meter2} alt='image'/>
                                 <h5>Bootstrap 5</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2}/>
+                                <img src={meter2} alt='image ' />
                                 <h5>Html and CSS</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3}/>
+                                <img src={meter3} alt='image'/>
                                 <h5>Javascript</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3}/>
+                                <img src={meter3} alt='image'/>
                                 <h5>Fluent in 5 Languages</h5>
                             </div>
                         </Carousel>
