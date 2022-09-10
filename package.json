@@ -1,5 +1,5 @@
 {
-  "homepage": "https://YugeshKK.github.io/PortFolio",
+  "homepage": "http://YugeshKK.github.io/YugeshKK.github.io",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -50,3 +50,4 @@
     "gh-pages": "^4.0.0"
   }
 }
+
