@@ -36,9 +36,13 @@ const About = () => {
                         <h2>
                             About
                         </h2>
-                        <p>I am a Computer Science graduate <br/> I graduated in the year 2022 from 
-                        Jawaharlal Nehru National College of Engineering shimoga</p>
-                        <p>Intrested in Devloping amazing websites to let people connect and enjoy through the portal called Internet</p>
+                        <p style={{lineHeight: "1.6"}}>I am a Computer Science graduate.<br/> I graduated in the year 2022 from  
+                         <i> Jawaharlal Nehru National College of Engineering shimogga</i>.<br/> I live in Bhadravathi, Karnataka.<br/>
+                        I Believe that Connecting with people and exchanging our thoughts and ideas will play a great deal in personal as well as professional development.
+                        Especially through Internet we can connect with millions if not billions of people.
+                        Then I started to learn Front End Devleopment, mainly I use React JS as my front end tool. I've been working with React for more than a year
+                        now, I have Built a few Projects which I have listed below. I look forward to work with large projects and learn a lot and Excell myself as a Front End Developer.
+                        </p>
                         <h1>Skills</h1>
                         <Carousel responsive={responsive} infinite={true} className='skill-slider'>
                             <div className="item">
